@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-python-dotenv
+scikit-learn
 pandas
 numpy
-scikit-learn
-xgboost
-imbalanced-learn
 joblib
+xgboost
+python-dotenv
+imbalanced-learn
